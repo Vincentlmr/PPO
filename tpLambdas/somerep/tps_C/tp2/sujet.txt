@@ -1,0 +1,2 @@
+Multiplication de polynômes aléatoires de taille croissante
+par la méthode élémentaire, puis par celle de Karatsuba.
