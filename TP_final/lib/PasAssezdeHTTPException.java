@@ -1,0 +1,1 @@
+class PasAssezdeHTTPException extends Exception{}
