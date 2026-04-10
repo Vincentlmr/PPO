@@ -1,0 +1,1 @@
+class OperationInvalide extends Exception{}
